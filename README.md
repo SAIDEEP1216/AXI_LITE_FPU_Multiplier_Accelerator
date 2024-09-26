@@ -1,5 +1,5 @@
 # AXI_LITE_FPU_Multiplier
-ARM AMBA-AXI4- Lite Memory Mapped IP design and testing on PYNQZ1 FPGA
+ARM AMBA-AXI4- Lite Memory Mapped IP and FPU multiplier IP design and testing on PYNQZ1 FPGA
 
 ![Block_Diagram](https://github.com/user-attachments/assets/1a443970-1845-4c74-8b93-03c2ebf4b8a7)
 
