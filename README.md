@@ -180,6 +180,7 @@ The read state machine handles the following states:
 - **S_RDIDLE**: Idle state, waiting for a read address.
 - **S_RDDATA**: Sending read data in response to a read request.
 
+### Block Design with AXI MM2c to FPU Multiplier Connections
 ![Block_Diagram](https://github.com/user-attachments/assets/1a443970-1845-4c74-8b93-03c2ebf4b8a7)
 ***************************************************************************************************
 
