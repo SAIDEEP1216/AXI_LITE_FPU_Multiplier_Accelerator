@@ -5,8 +5,9 @@
 
 This project implements an AXI Floating Point Unit (FPU) Multiplier Accelerator on the PYNQ Z1 FPGA. It allows users to input two floating-point numbers via a COM port, performs multiplication both in the Programmable Logic (PL) and the Processing System (PS), and prints the results along with the time taken for both operations.
 
-Note: PS - Processing System here is MCU present on Soc (ARM Cortex A9)
-      PL - Programmable Logic (FPGA)
+Note: PS - Processing System here is MCU present on Soc (ARM Cortex A9).
+
+PL - Programmable Logic (FPGA).
 
 ## Project Components
 
