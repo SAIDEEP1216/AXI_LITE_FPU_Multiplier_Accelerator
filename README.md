@@ -21,7 +21,7 @@ PL - Programmable Logic (FPGA).
 
 - **Hardware**: PYNQ Z1 FPGA
 - **Software**: 
-  - Vitis for PS-Application development
+  - Vitis 2023.1 for PS-Application development
   - Vivado for FPGA design
  
 ## Design Workflow
